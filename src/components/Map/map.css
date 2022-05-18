@@ -3,3 +3,15 @@
     height: 100vh;
     background: dodgerblue;
 }
+
+.leaflet-container {
+    height: 100%;
+}
+
+
+
+@media screen and (min-width: 1024px) {
+    .map__container{
+        height: 94vh;
+    }
+}
