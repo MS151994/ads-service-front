@@ -1,0 +1,8 @@
+.logo {
+    text-transform: uppercase;
+    font-weight: 100;
+    padding: 5px 10px;
+    font-size: 30px;
+    border-bottom: 1px solid #00000050;
+    margin-bottom: 5px;
+}
