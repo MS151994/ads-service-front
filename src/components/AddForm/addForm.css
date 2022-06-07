@@ -1,0 +1,17 @@
+.add__form{
+    max-width: 50vw;
+    margin: 0 auto;
+    text-align: left;
+}
+.add__form h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.add__form label{
+    font-weight: bold;
+}
+.add__form input, .add__form textarea{
+    width: 100%;
+    padding: 3px;
+}
