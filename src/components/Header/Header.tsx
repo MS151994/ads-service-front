@@ -8,7 +8,7 @@ export const Header = () => {
         <header>
             <div className="header__container">
                 <Logo/>
-                <Btn buttonName={"add new ads"}/>
+                <Btn to="/add" buttonName={"add new ads"}/>
                 <Search placeholder={"Search..."}/>
             </div>
         </header>

@@ -1,7 +1,8 @@
-Button {
+Button, a  {
     text-transform: uppercase;
     background: none;
     border: 1px solid #00000070;
     border-radius: 4px;
     padding: 5px 10px;
+    text-decoration: none;
 }
